@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  API_URL: '',
-  API_KEY: ''
+  API_URL: 'https://newsapi.org/v2/top-headlins',
+  API_KEY: '7bd817c353c14143a6f13b97bb15b27f'
 };
 
 /*
